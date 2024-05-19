@@ -1,0 +1,132 @@
+@import url("https://cdn.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.3/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+:root {
+    --color-accent: #f4d259;
+
+    --color-dark: #161616;
+    --color-light: #dedede;
+}
+
+html {
+    margin: 0;
+
+    font-family: "Wanted Sans Variable", "Wanted Sans", -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
+    color: var(--color-light);
+    background-color: var(--color-dark);
+}
+
+body {
+    /* display: flex; */
+
+    margin: auto;
+    width: 45%;
+    height: 100%;
+    line-height: 1.5;
+}
+
+a, a:active {
+    color: var(--color-accent);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+div.side-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+}
+
+div.side-element {
+    /* display: flex; */
+    width: 50%;
+    height: 100%;
+}
+
+h2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+
+img.header-img {
+    display: block;
+    width: auto;
+    height: 48px;
+}
+
+div.side-element > p > img {
+    border-radius: 8px;
+}
+
+div.button-tray {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.button > i.bx {
+    scale: 1.1;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    width: max-content;
+    flex-direction: row;
+    gap: 8px;
+    text-decoration: none !important;
+    background-color: #191919;
+    border-radius: 8px;
+    border: 2px solid var(--color-light);
+    color: 2px solid var(--color-light);
+    padding: 16px;
+
+    transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.button:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+
+    transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.button.disabled {
+    border-color: #aaaaaa;
+    color: #aaaaaa;
+}
+
+span.wtm {
+    color: #aaaaaa;
+}
+
+code {
+    font-family: "Inconsolata", monospace;
+    font-size: inherit;
+    padding: 2px;
+    background-color: #101010;
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        width: calc(100% - 64px);
+    }
+}
