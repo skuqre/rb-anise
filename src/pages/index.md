@@ -93,6 +93,9 @@ She is only available at the NIKKE Community Discord Server. Only for that and n
 
 <span class="wtm">
 
+*profile picture by [Kiwi_Forest](https://x.com/Kiwi_Forest) on twitter!*<br>
+*banner by [sinnkunn](https://www.pixiv.net/en/users/1311119) on pixiv!*<br><br>
+
 *rebuild anisé, a discord ~~bot~~ app by skuqre and awesome21snake. more projects at [skuqre.github.io](https://skuqre.github.io/)*
 
 </span>
