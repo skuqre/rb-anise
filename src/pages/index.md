@@ -75,13 +75,17 @@ Rebuild Anisé does not only do these; she can do a lot more. She can provide yo
 
 # She isn't publicly available, though.
 
-She is only available at the NIKKE Community Discord Server. Only for that and nowhere else. If you'd like to take her for a spin, feel free to join over there and hop on [`#anisé-bot-intel`](https://discord.com/channels/968096627002851379/1056120875612651570/).
+~~She is only available at the NIKKE Community Discord Server. Only for that and nowhere else.~~<br>
+She is now available at the NIKKE.gg Official Server and the NIKKE Community Server!
 
 <br><br>
 
 <div class="button-tray">
 <a class="button" href="https://discord.gg/nikke/">
 <i class='bx bxl-discord-alt'></i> NIKKE Community
+</a>
+<a class="button" href="https://nikke.gg/discord/">
+<i class='bx bxl-discord-alt'></i> NIKKE.gg
 </a>
 <a class="button disabled" href="https://github.com/skuqre/rb-anise/
 ">
