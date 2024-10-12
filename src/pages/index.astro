@@ -1,0 +1,267 @@
+---
+import "../css/styles.css";
+
+const anisRequest = await ( await fetch("https://api.dotgg.gg/nikke/character/anis") ).json();
+const anisSkill1 = anisRequest.skills[0].description.replaceAll(/<[^>]*>/g, "").replaceAll( /{(.*?)}/g, "<b>x</b>") + "<br><br>";
+const anisSkill2 = anisRequest.skills[1].description.replaceAll(/<[^>]*>/g, "").replaceAll( /{(.*?)}/g, "<b>x</b>") + "<br><br>";
+const anisBurst = anisRequest.skills[2].description.replaceAll(/<[^>]*>/g, "").replaceAll( /{(.*?)}/g, "<b>x</b>");
+---
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Rebuild Anisé</title>
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="shortcut icon" href="https://cdn.discordapp.com/emojis/1240673618917326978.png" type="image/png">
+    </head>
+    <body>
+        <div style="text-align: center;">
+            <h1>Rebuild Anisé</h1>
+            <p>A NIKKE Discord Bot that provides you with (almost) everything you need.</p>
+
+            <br>
+            <br>
+
+            <div class="content">
+                <div class="generic-double">
+                    <div>
+                        <div class="side-element">
+                            <h2><img class="header-img" src="https://cdn.discordapp.com/emojis/1240673618917326978.png" /> NIKKE Information</h2>
+
+                            Anisé can get various useful information from reputable sources like <a href="https://nikke.gg">Nikke.gg</a> and <a href="https://prydwen.gg/nikke/">Prydwen</a>.
+                            Data like advise answers through <code>/advise</code>, investments through <code>/invest</code>, and skill information through <code>/nikke</code>!
+
+                            <br><br>
+
+                            It's also easy to get stage information through <code>/stage</code>, tower stage information through <code>/floor</code>, and many more!<br>
+                            <small>Output from these commands may include external links to <a href="https://nkas.pages.dev/beastiary/">NKAS Beastiary</a> for Rapture data.</small>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="discord-message">
+                            <div class="discord-deco-reply"></div>
+                            <div class="discord-deco-reply-flex">
+                                <div class="discord-deco-reference-avatar"></div>
+                                <span class="discord-deco-reference-username">User</span>
+                                 used 
+                                <span class="discord-deco-reference-interaction">/nikke</span>
+                            </div>
+                            <div class="discord-avatar"></div>
+                            <span class="discord-username">
+                                Rebuild Anisé
+                                <span class="discord-tag">
+                                    APP
+                                </span>
+                                <span class="discord-time">Today at 00:00 • Web Preview</span>
+                            </span>
+                            <div class="discord-embed">
+                                <div class="generic-double">
+                                    <div style="gap: 8px;">
+                                        <span class="discord-embed-title">
+                                            [SR] Anis
+                                        </span>
+                                        <span class="discord-embed-description">
+                                            { anisRequest.description }
+                                            <br><br>
+                                        </span>
+                                        <div class="discord-embed-field-row">
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>DETAILS</b></span>
+                                                <span class="discord-embed-field-description">
+                                                    <b>Class</b>: Defender<br>
+                                                    <b>Weapon</b>: Rocket Launcher<br>
+                                                    <b>Manufacturer</b>: Tetra<br>
+                                                    <b>Element</b>: Iron<br>
+                                                    <b>Burst</b>: Type II<br>
+                                                    <br>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="discord-embed-field-row">
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>NIKKE.GG</b></span>
+                                                <span class="discord-embed-field-description">
+                                                    <b>Combined</b>: D (4.40)<br>
+                                                    <b>Story</b>: C (6.50)<br>
+                                                    <b>Boss</b>: E (3.00)<br>
+                                                    <b>PvP</b>: S (9.00)<br>
+                                                    <br>
+                                                </span>
+                                            </div>
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>PRYDWEN</b></span>
+                                                <span class="discord-embed-field-description">
+                                                    <b>Story (Low Deficit)</b>: A<br>
+                                                    <b>Story (High Deficit)</b>: B<br>
+                                                    <b>Boss (Solo)</b>: C<br>
+                                                    <b>Boss (Adds)</b>: B<br>
+                                                    <b>PvP</b>: SS<br>
+                                                    <br>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="discord-embed-field-row">
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>NORMAL ATTACK</b> [6 ammo] [0.67 seconds]</span>
+                                                <span class="discord-embed-field-description">
+                                                    ■ Affects target enemy.<br>
+                                                    Deals <b>{anisRequest.damage}</b> ATK as damage.<br>
+                                                    Charge Time: <b>{anisRequest.chargeTime}</b> seconds.<br>
+                                                    Full Charge Damage: <b>{anisRequest.chargeDamage}</b> of damage.<br>
+                                                    Generates <b>{anisRequest.burstGen}</b> of Burst Gauge.<br>
+                                                    <br>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        <div class="discord-embed-field-row">
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>SKILL 1</b>: { anisRequest.skills[0].name } [Passive]</span>
+                                                <span class="discord-embed-field-description" set:html={ anisSkill1 }></span>
+                                            </div>
+                                        </div>
+                                        <div class="discord-embed-field-row">
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>SKILL 2</b>: { anisRequest.skills[1].name } [Active] [30 seconds]</span>
+                                                <span class="discord-embed-field-description" set:html={ anisSkill2 }></span>
+                                            </div>
+                                        </div>
+                                        <div class="discord-embed-field-row">
+                                            <div class="discord-embed-field">
+                                                <span class="discord-embed-field-title"><b>BURST</b>: { anisRequest.skills[2].name } [Active] [20 seconds]</span>
+                                                <span class="discord-embed-field-description" set:html={ anisBurst }></span>
+                                            </div>
+                                        </div>
+                                        <div class="discord-embed-footer">
+                                            Data from Nikke.gg and Prydwen | Skills shown are Level 10.
+                                        </div>
+                                    </div>
+                                    <div style="max-width: 80px; flex-basis: unset;">
+                                        <div class="discord-embed-thumbnail"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="generic-double reversed">
+                    <div>
+                        <div class="discord-message">
+                            <div class="discord-deco-reply"></div>
+                            <div class="discord-deco-reply-flex">
+                                <div class="discord-deco-reference-avatar"></div>
+                                <span class="discord-deco-reference-username">User</span>
+                                 used 
+                                <span class="discord-deco-reference-interaction">/gacha</span>
+                            </div>
+                            <div class="discord-avatar"></div>
+                            <span class="discord-username">
+                                Rebuild Anisé
+                                <span class="discord-tag">
+                                    APP
+                                </span>
+                                <span class="discord-time">Today at 00:00 • Web Preview</span>
+                            </span>
+                            <div class="discord-embed">
+                                <div class="generic-double">
+                                    <div style="gap: 8px;">
+                                        <span class="discord-embed-title">💳 Gacha Pull</span>
+                                        <img src="/rb-anise/gacha.png" alt="Gacha Pull Example" class="discord-embed-image" />
+                                        <div class="discord-embed-footer">
+                                            Check your inventory with <code>/inventory</code>!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="side-element">
+                            <h2><img class="header-img" src="https://cdn.discordapp.com/emojis/1240674643954761740.png" /> Gacha</h2>
+
+                            Because it's fun.
+
+                            <br><br>
+
+                            Do 10 pulls (or singles) without the consequences through <code>/gacha</code>, with a global <code>/inventory</code> system shared between servers!
+                            The pool will update when <a href="https://nikke.gg">Nikke.gg</a>'s character list updates, with proper rates set!
+                        </div>
+                    </div>
+                </div>
+                <div class="generic-double">
+                    <div>
+                        <div class="side-element">
+                            <h2><img class="header-img" src="https://cdn.discordapp.com/emojis/1240674639894675586.png" /> ...and many more!</h2>
+                            Anisé can do a lot. Tell you a bedtime story, tell you her plans for world domination, or treat you to a nice dinner.
+                            You can even ask for recipes! That's a plus for many, right?
+                            <br><br>
+                            <small>
+                                The AI is in BETA, and is always susceptible to resets. How she talks will always be inconsistent.<br>
+                                P.S. She's not a qualified therapist. Or a lover, for that matter.
+                            </small>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="discord-message">
+                            <div class="discord-deco-reply"></div>
+                            <div class="discord-deco-reply-flex">
+                                <div class="discord-deco-reference-avatar"></div>
+                                <span class="discord-deco-reference-username">User</span>
+                                <span class="discord-deco-reference-content">
+                                    Do you have a recipe for some buffalo chicken tortillas?
+                                </span>
+                            </div>
+                            <div class="discord-avatar"></div>
+                            <span class="discord-username">
+                                Rebuild Anisé
+                                <span class="discord-tag">
+                                    APP
+                                </span>
+                                <span class="discord-time">Today at 00:00 • Web Preview</span>
+                            </span>
+                            <span class="discord-content">
+                                I think I do? Let me list it off the top of my head...
+                                <br><br>
+                                Ingredients:
+                                <ul>
+                                    <li>2 1/2 cups of cooked shredded chicken</li>
+                                    <li>1 cup buffalo sauce</li>
+                                    <li>1/4 cup BBQ sauce</li>
+                                    <li>1/4 cup ranch dressing</li>
+                                    <li>1 cup cheddar cheese, shredded</li>
+                                    <li>8 flour tortillas, warmed</li>
+                                </ul>
+                                <br>
+                                Instructions:
+                                <ol>
+                                    <li>Combine the cooked shredded chicken with the buffalo sauce, BBQ sauce, and ranch dressing in a bowl.</li>
+                                    <li>Mix well until it's thoroughly combined.</li>
+                                    <li>Place a tortilla on a large plate, and spoon a generous amount of the chicken mixture in the center.</li>
+                                    <li>Scatter cheddar cheese</li>
+                                    <li>Done!</li>
+                                </ol>
+                                <span class="subheading"><a href="https://character.ai/tos">TOS</a> • ⏲ Cooldown over!</span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <br><br>
+
+        <span class="wtm">
+            <code>/help</code> art by <a href="https://x.com/Kiwi_Forest">Kiwi_Forest</a> on twitter!
+            <br>
+            banner by <a href="https://www.pixiv.net/en/users/1311119">sinnkunn</a> on pixiv!
+            <br><br>
+            
+            rebuild anisé, a discord <strike>bot</strike> app by skuqre and awesome21snake. more projects at <a href="https://skuqre.github.io">skuqre.github.io</a>
+
+            <br><br>
+            <p style="font-style: normal;"><a href="/rb-anise/tos">Terms of Service</a> - <a href="/rb-anise/privacy">Privacy Policy</a></p>
+        </span>
+
+        <br><br>
+    </body>
+</html>
