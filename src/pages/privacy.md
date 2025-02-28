@@ -21,7 +21,7 @@ To provide its Services, the Bot may collect and store certain information, incl
     - Commands in the "BlablaLink" category use the user's Discord User ID in order to identify which BlablaLink account is associated with this user.
     - Commands in the "Gacha" category use the user's Discord User ID in order to track of their results in the usage of the commands `/gacha` and `/mold`. Such results can be seen when using the `/inventory` command.
 - **Discord Server IDs**
-    - Commands in the "AI" category use the server's Discord Server ID in order to identify what Webhook information is provided by a server administrator, if the server has linked a Webhook through using `/ai privaty`.
+    - Commands in the "AI Chatbot" category use the server's Discord Server ID in order to identify what Webhook information is provided by a server administrator, if the server has linked a Webhook through using `/ai privaty`.
     - The AI chatbot feature uses the server's Discord Server ID in order to verify which channels are whitelisted for AI interactions.
 - **Discord Webhooks**
     - This information is stored when a server administrator links a Webhook through using `/ai privaty`.
