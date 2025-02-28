@@ -84,6 +84,20 @@ div.button-tray {
     gap: 16px;
 }
 
+div.md-main {
+    position: absolute;
+
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+}
+
+div.md-main > h1, div.md-main > h2 {
+    margin-top: 16px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #4e5058;
+}
+
 .button>i.bx {
     scale: 1.1;
 }
@@ -427,7 +441,12 @@ span.discord-deco-reference-interaction {
 
 @media screen and (max-width: 1000px) {
     body {
+        font-size: 14px;
         width: calc(100% - 128px);
+    }
+
+    div.md-main {
+        width: calc(100% - 64px);
     }
 
     div.generic-double {
