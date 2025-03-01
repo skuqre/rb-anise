@@ -7,7 +7,7 @@ title: Rebuild Anisé - Terms of Service
 
 # Terms of Service
 
-*Last updated: February 28, 2025*
+*Last updated: March 2, 2025*
 
 ## I. Introduction
 
@@ -50,13 +50,13 @@ For the Bot to function properly, the Bot may collect and store certain informat
 - **Discord Webhooks**
 - **BlablaLink IDs**
 
-We do not collect any personally identifiable data (e.g. emails, passwords). All collected data is used solely for providing the Bot's services to users and is not shared or sold to third parties. If you wish to request data removal, please contact me (see Section VII).
+I do not collect any personally identifiable data (e.g. emails, passwords). All collected data is used solely for providing the Bot's services to users and is not shared or sold to third parties. If you wish to request data removal, please contact me (see Section VII).
 <br><br>
 Further information on how these information is used, stored, and processed is listed in the [Privacy Policy](/rb-anise/privacy/).
 
 ## V. Limitation of Liability
 
-The Bot is provided "as is" without any warranties. We are not liable for:
+The Bot is provided "as is" without any warranties. I am not liable for:
 
 <!-- - Any disruptions, bugs, or downtime. -->
 - Any unintended consequences resulting from the use of the Bot.
