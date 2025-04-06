@@ -20,7 +20,6 @@ She's available in:
 - Gacha.
     - Includes an inventory!
 - AI chatbot. Why? I don't know, I thought it'd be funny.
-    - Includes a Privaty and Noah extension!
 - Stage Information, including Tower stages!
 - Investment tip summaries from different sites
 - Advise answers, and advise simulations
