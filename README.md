@@ -4,7 +4,10 @@ https://skuqre.github.io/rb-anise/
 
 A NIKKE Discord bot that provides you with (almost) everything you need.
 
-She's available in the [NIKKE Community Discord](https://discord.gg/nikke/) and the [NIKKE.gg Discord](https://nikke.gg/discord/).
+She's available in:
+- [NIKKE Community Discord](https://discord.gg/nikke/)
+- [NIKKE.gg Discord](https://nikke.gg/discord/)
+- [Dorocord](https://discord.gg/dorocord/)
 
 ---
 
