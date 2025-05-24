@@ -8,11 +8,13 @@ She's available in:
 - [NIKKE Community Discord](https://discord.gg/nikke/)
 - [NIKKE.gg Discord](https://nikke.gg/discord/)
 - [Dorocord](https://discord.gg/dorocord/)
+- [Prydwen](https://discord.gg/prydwen/)
 
 ---
 
 **Q: Why is the bot not public?**<br>
-**A**: The bot runs on a low-cost server. Not strong enough to handle a lot of load.
+**A1**: The bot runs on a low-cost server. Not strong enough to handle a lot of load.
+**A2**: Despite having a 4x upgrade, she is still not strong enough to handle a lot of load.
 
 **Q: What are the bot's features?**<br>
 **A**: She has a lot, but if you want a summary:
@@ -23,7 +25,7 @@ She's available in:
 - Stage Information, including Tower stages!
 - Investment tip summaries from different sites
 - Advise answers, and advise simulations
-- ...and many more!
+- ...and many more to come!
 
 **Q: Why not make it multipurpose?**<br>
 **A**: Too much work, and I definitely didn't do that when I made the [old version of this bot](https://github.com/skuqre/anise).

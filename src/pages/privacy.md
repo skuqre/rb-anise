@@ -7,7 +7,7 @@ title: Rebuild Anisé - Privacy Policy
 
 # Privacy Policy
 
-*Last updated: February 28, 2025*
+*Last updated: May 24, 2025*
 
 ## I. Introduction
 
@@ -57,7 +57,7 @@ The Bot may use third-party APIs (such as the AI chatbot and the BlablaLink serv
 - [DotGG Privacy Policy](https://dotgg.gg/privacy/)
 - [Prydwen Institute Privacy Policy](https://www.prydwen.gg/privacy-policy/)
 
-An outline of what third-party APIs the Bot uses can be seen by using the command `/usage`.
+An outline of what third-party APIs the Bot uses can be seen by using the command `/api-info`.
 
 ## VI. Your Rights
 
