@@ -7,7 +7,7 @@ title: Rebuild Anisé - Privacy Policy
 
 # AI Chatbot Rules
 
-*Last updated 6/23/2025*
+*Last updated 6/22/2025*
 
 ## I. Introduction
 
