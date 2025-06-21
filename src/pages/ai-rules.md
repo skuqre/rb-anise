@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/md.astro
-title: Rebuild Anisé - Privacy Policy
+title: Rebuild Anisé - AI Chatbot Rules
 ---
 
 <br><br>
