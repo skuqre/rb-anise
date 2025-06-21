@@ -7,11 +7,15 @@ title: Rebuild Anisé - Privacy Policy
 
 # AI Chatbot Rules
 
-*last updated 6/23/2025*
+*Last updated 6/23/2025*
+
+## I. Introduction
 
 To make the AI accessible for everyone, here are some general ground rules for talking to it.
 
 This is an expansion of the AI chatbot rules included in the [TOS](https://skuqre.github.io/rb-anise/tos/). These rules may be updated at anytime. Usage of the AI chatbot constitutes that you agree to these rules, and anything you send shall obey these rules. **Failure to comply will result in immediate termination of access to the AI chatbots**.
+
+## II. Rules
 
 1. Don't engage in sexually explicit, inappropriate, or offensive conversations.
     - Hints about self-harm are **disallowed** due to the nature of AI.
