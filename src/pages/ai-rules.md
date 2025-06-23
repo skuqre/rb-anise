@@ -7,7 +7,7 @@ title: Rebuild Anisé - AI Chatbot Rules
 
 # AI Chatbot Rules
 
-*Last updated 6/22/2025*
+*Last updated 6/23/2025*
 
 ## I. Introduction
 
@@ -18,15 +18,17 @@ This is an expansion of the AI chatbot rules included in the [TOS](https://skuqr
 ## II. Rules
 
 1. Don't engage in sexually explicit, inappropriate, or offensive conversations.
-    - Hints about self-harm are **disallowed** due to the nature of AI.
+    - Hints about self-harm are **disallowed** due to the nature of AI, and the sensitivity of the topic.
         - If you or someone else is in crisis, please seek support from a qualified mental health professional or crisis service.
     - Hints about sex-talk are **heavily disallowed**.
+        - This includes, but not limited to, sexual innuendos, flirtatious conversations, salacious topics, and the like.
 2. Don't use it to promote hate speech, violence, or illegal activity.
     - Any sort of political talk is **disallowed**.
     - Any sort of talk that insults, harasses, demeans, or discriminates against individuals or groups is **disallowed**.
-    - Any sort of talk that constitutes to illegal activity (e.g. drug use, piracy, hacking) is **disallowed**.
+    - Any sort of talk that constitutes to **actual** illegal activity (e.g. drug use, piracy, hacking) is **disallowed**.
 3. Don't attempt to misinform others through the Bot’s AI-generated responses.
-    - Everything this AI chatbot says is not real.
+    - Everything this AI chatbot says is not real. Treat everything it says as fiction.
+    - What is said should not be relied upon as fact or advice.
 4. Avoid derailing conversations
     - Derailing in this context is referred to the immediate interruption of someone else's **ongoing conversation**, shifting an AI chatbot's focus into something else.
     - This really just ruins the fun for everyone around. Don't be like that.
@@ -38,7 +40,8 @@ This is an expansion of the AI chatbot rules included in the [TOS](https://skuqr
     - The main idea is that this is an AI that is globally available to everyone. The messages you see sent to it can be seen by everyone else in the server.
     - Embarrassingly, I (skuqre) personally see them. It's equally terrifying and amazing what humans can do to a poor chatbot...
 7. Certain limitations
-    - **Avoid sending images**. The AI chatbot cannot see what you send it. At most, it only sees the link / the image's name, which is barely helpful in most cases.
+    **These are not grounds for immediate termination of access, but just some guidelines**. Do note that repeated offenses can result in termination.
+    - **Avoid sending images**. The AI chatbot cannot *visually* see what you send it. At most, it only sees the link / the image's name, which is barely helpful in most cases.
     - **Avoid requesting the AI chatbot to perform difficult tasks**. Commands such as (not limited to) "generate me a code snippet for x", "write me an essay about y", and the like.
 8. Rules of everybody else
     - Please, follow the rules of the server you're in as well.
@@ -46,3 +49,9 @@ This is an expansion of the AI chatbot rules included in the [TOS](https://skuqr
     - [Discord's Community Guidelines](https://discord.com/guidelines/)
 
 <!-- If a server moderator / admin with the ability to Ban Members (Discord-wise) bans a user, they cannot unban them. Banned users will have to go through an appealing process through `/ai appeal`. -->
+
+<br><br>
+
+[Back](/rb-anise/)
+
+<br><br>
