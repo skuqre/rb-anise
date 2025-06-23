@@ -36,7 +36,7 @@ This is an expansion of the AI chatbot rules included in the [TOS](https://skuqr
     - An AI goes along with you -- like a glorified bandwagoner. If it becomes weird, it's probably because of someone being weird to it.
         - In the case of it *slowly* getting weirder, a reset to the AI chatbot will be in order once reported.
     - Like derailing, this would ruin the fun for everyone around.
-6. Everything you send can be seen by everyone
+6. Be wary of what you send
     - The main idea is that this is an AI that is globally available to everyone. The messages you see sent to it can be seen by everyone else in the server.
     - Embarrassingly, I (skuqre) personally see them. It's equally terrifying and amazing what humans can do to a poor chatbot...
 7. Certain limitations
