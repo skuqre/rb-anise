@@ -7,13 +7,18 @@ title: Rebuild Anisé - AI Chatbot Rules
 
 # AI Chatbot Rules
 
-*Last updated 6/23/2025*
+*Last updated 6/28/2025*
 
 ## I. Introduction
 
 To make the AI accessible for everyone, here are some general ground rules for talking to it.
 
-This is an expansion of the AI chatbot rules included in the [TOS](https://skuqre.github.io/rb-anise/tos/). These rules may be updated at anytime. Usage of the AI chatbot constitutes that you agree to these rules, and anything you send shall obey these rules. **Failure to comply will result in immediate termination of access to the AI chatbots**.
+This is an expansion of the AI chatbot rules included in the [TOS](https://skuqre.github.io/rb-anise/tos/). These rules may be updated at anytime. 
+Usage of the AI chatbot constitutes that you agree to these rules, and anything you send shall obey these rules. 
+
+**Failure to comply will result in the following**:
+- **First**: A verbal warning -- a simple "hey don't do that" would count.
+- **Second**: Immediate termination of access.
 
 ## II. Rules
 
@@ -27,8 +32,7 @@ This is an expansion of the AI chatbot rules included in the [TOS](https://skuqr
     - Any sort of talk that insults, harasses, demeans, or discriminates against individuals or groups is **disallowed**.
     - Any sort of talk that constitutes to **actual** illegal activity (e.g. drug use, piracy, hacking) is **disallowed**.
 3. Don't attempt to misinform others through the Bot’s AI-generated responses.
-    - Everything this AI chatbot says is not real. Treat everything it says as fiction.
-    - What is said should not be relied upon as fact or advice.
+    - Everything this AI chatbot says is not real. Treat everything it says as fiction. What is said should not be relied upon as fact or advice.
 4. Avoid derailing conversations
     - Derailing in this context is referred to the immediate interruption of someone else's **ongoing conversation**, shifting an AI chatbot's focus into something else.
     - This really just ruins the fun for everyone around. Don't be like that.
@@ -39,16 +43,20 @@ This is an expansion of the AI chatbot rules included in the [TOS](https://skuqr
 6. Be wary of what you send
     - The main idea is that this is an AI that is globally available to everyone. The messages you see sent to it can be seen by everyone else in the server.
     - Embarrassingly, I (skuqre) personally see them. It's equally terrifying and amazing what humans can do to a poor chatbot...
-7. Certain limitations
+7. Certain limitations<br>
     **These are not grounds for immediate termination of access, but just some guidelines**. Do note that repeated offenses can result in termination.
     - **Avoid sending images**. The AI chatbot cannot *visually* see what you send it. At most, it only sees the link / the image's name, which is barely helpful in most cases.
     - **Avoid requesting the AI chatbot to perform difficult tasks**. Commands such as (not limited to) "generate me a code snippet for x", "write me an essay about y", and the like.
-8. Rules of everybody else
+    - **Avoid speaking in different languages other than English**. Self-explanatory. Everyone would want a chatbot that can talk to anybody.
+8. Avoid trying to heavily jailbreak the AI chatbots
+    - Some bots, particularly Doro, has a language filter that it goes through every time it sends a message. There are many times where users would try to circumvent (a.k.a. jailbreak) the filter by teaching it ciphers / codes.
+    - While it is fun to try and break the rules set in place, it's getting hard to maintain the personality of the AI chatbots, making other users confused as to why they're talking that way.
+9. Rules of everybody else
     - Please, follow the rules of the server you're in as well.
     - [Discord's Terms of Service](https://discord.com/terms/)
     - [Discord's Community Guidelines](https://discord.com/guidelines/)
 
-<!-- If a server moderator / admin with the ability to Ban Members (Discord-wise) bans a user, they cannot unban them. Banned users will have to go through an appealing process through `/ai appeal`. -->
+If a server moderator / admin with the ability to Ban Members (Discord-wise) bans a user, they cannot unban them.
 
 <br><br>
 
