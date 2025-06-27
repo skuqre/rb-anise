@@ -47,7 +47,7 @@ Usage of the AI chatbot constitutes that you agree to these rules, and anything 
     **These are not grounds for immediate termination of access, but just some guidelines**. Do note that repeated offenses can result in termination.
     - **Avoid sending images**. The AI chatbot cannot *visually* see what you send it. At most, it only sees the link / the image's name, which is barely helpful in most cases.
     - **Avoid requesting the AI chatbot to perform difficult tasks**. Commands such as (not limited to) "generate me a code snippet for x", "write me an essay about y", and the like.
-    - **Avoid speaking in different languages other than English**. Self-explanatory. Everyone would want a chatbot that can talk to and be understood anybody in the room.
+    - **Avoid speaking in different languages other than English**. Self-explanatory. Everyone would want a chatbot that can talk to and be understood by anybody in the room.
 8. Avoid trying to heavily jailbreak the AI chatbots
     - Some bots, particularly Doro, has a language filter that it goes through every time it sends a message. There are many times where users would try to circumvent (a.k.a. jailbreak) the filter by teaching it ciphers / codes.
     - While it is fun to try and break the rules set in place, it's getting hard to maintain the personality of the AI chatbots, making other users confused as to why they're talking that way.
