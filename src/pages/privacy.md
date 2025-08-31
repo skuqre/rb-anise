@@ -77,6 +77,6 @@ I may update this Privacy Policy at any time. If any significant changes are mad
 
 <br><br>
 
-[Back](/rb-anise/) - [Terms of Service](/rb-anise/tos/)
+[Back](/rb-anise/) &bull; [Terms of Service](/rb-anise/tos/)
 
 <br><br>

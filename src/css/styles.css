@@ -19,11 +19,13 @@ html {
 }
 
 body {
-    /* display: flex; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-    margin: auto;
-    width: 65%;
-    height: 100%;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
     line-height: 1.5;
 }
 
@@ -158,17 +160,18 @@ div.generic-double {
     justify-content: stretch;
     align-items: center;
     flex-direction: row;
-    gap: 16px;
 }
 
 div.generic-double>div {
     display: flex;
     flex-grow: 1;
-    flex-basis: 50%;
-    justify-content: center;
-    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
 
-    width: auto;
+    text-align: left;
+
+    width: 50%;
     height: 100%;
 }
 

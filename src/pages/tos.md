@@ -7,7 +7,7 @@ title: Rebuild Anisé - Terms of Service
 
 # Terms of Service
 
-*Last updated: March 2, 2025*
+*Last updated: August 31, 2025*
 
 ## I. Introduction
 
@@ -38,6 +38,7 @@ Users of the Bot must comply with all applicable laws and regulations while usin
     - Engaging in sexually explicit, inappropriate, or offensive conversations.
     - Using it to promote hate speech, violence, or illegal activity
     - Attempting to misinform others through the Bot's AI-generated responses.
+    - See the expanded [AI Rules](/rb-anise/ai-rules/) for more information.
 
 Violations of these responsibilites may result in restrictions on your use of the Bot, including temporary or permanent termination of access to the Bot's services.
 
@@ -77,6 +78,6 @@ For questions, concerns, or data-related requests, you may contact me through th
 
 <br><br>
 
-[Back](/rb-anise/) - [Privacy Policy](/rb-anise/privacy/)
+[Back](/rb-anise/) &bull; [Privacy Policy](/rb-anise/privacy/)
 
 <br><br>
