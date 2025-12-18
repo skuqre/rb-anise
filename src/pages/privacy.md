@@ -50,9 +50,8 @@ If you wish to not directly contact me, you may use the following ways in order 
 
 ## V. Third-party Services
 
-The Bot may use third-party APIs (such as the AI chatbot and the BlablaLink services) in order to provide functionality to certain features. These services shall only process the limited user data required by the services. I am not responsible for how third-party services handle your data, so please review their respective privacy policies.
+The Bot may use third-party APIs (such as, not limited to, BlablaLink services) in order to provide functionality to certain features. These services shall only process the limited user data required by the services. I am not responsible for how third-party services handle your data, so please review their respective privacy policies.
 
-- [Character.AI Privacy Policy](https://character.ai/privacy/)
 - [BlablaLink Privacy Policy](https://nikke-en.com/privacypolicy/)
 - [DotGG Privacy Policy](https://dotgg.gg/privacy/)
 - [Prydwen Institute Privacy Policy](https://www.prydwen.gg/privacy-policy/)

@@ -25,7 +25,7 @@ These services are offered on an "as is" basis, and may change, expand, or be di
 
 By using the Bot's services, you acknowledge that you have read, understood, and agreed to the following Terms. You also agree to follow Discord's [Terms of Service](https://discord.com/terms/) and [Community Guidelines](https://discord.com/guidelines/).
 <br><br>
-By using the Bot's AI chatbot function, you agree to follow Character.AI's [Terms of Service](https://character.ai/tos/) and [Community Guidelines](https://character.ai/community-guidelines/).
+By using the Bot's AI chatbot function, you agree to follow the [AI Rules](/rb-anise/ai-rules/).
 
 ## III. User Responsibilities
 
