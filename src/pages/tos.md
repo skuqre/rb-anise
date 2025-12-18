@@ -7,7 +7,7 @@ title: Rebuild Anisé - Terms of Service
 
 # Terms of Service
 
-*Last updated: August 31, 2025*
+*Last updated: December 18, 2025*
 
 ## I. Introduction
 

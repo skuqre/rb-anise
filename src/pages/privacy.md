@@ -7,7 +7,7 @@ title: Rebuild Anisé - Privacy Policy
 
 # Privacy Policy
 
-*Last updated: May 24, 2025*
+*Last updated: December 18, 2025*
 
 ## I. Introduction
 
@@ -37,7 +37,7 @@ I try to take reasonable measures to protect your data from unauthorized access 
 
 - Some data may be stored temporarily to support Bot functions
 - Data is not shared, sold, or used for advertising purposes.
-- If third-party APIs are used, such as the AI chatbot and the BlablaLink features, data may be temporarily processed by those services.
+- If third-party APIs are used, such as BlablaLink features, data may be temporarily processed by those services.
 
 ## IV. Data Retention and Removal
 
