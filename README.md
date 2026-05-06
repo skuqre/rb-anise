@@ -34,7 +34,7 @@ She's available in:
     - Gameplay stages like towers and campaign - `/tower` and `/stage`
     - Collection items - `/collection`
     - ... and more to come!
-- [BlablaLink](https://www.blablalink.com/) Intergration **(BETA)**
+- [BlablaLink](https://www.blablalink.com/) Integration **(BETA)**
     - Quickly access your NIKKEs in [BlablaLink](https://www.blablalink.com/), NIKKE's online platform for NIKKE players! - `/bla-nikke`
     - Quickly access your profile too! - `/bla-profile`
     - Embed BlablaLink posts, if Anisé is able to send messages in the channel it's sent in.
