@@ -79,7 +79,7 @@ The Bot uses third-party APIs to provide certain features. Only the minimum data
     - **Server Nickname**: The user's server nickname, if one is set.
     - **Message Content**: The content of the message that triggered the AI chatbot.
     - **Replied Message Content**: If the triggering message is a reply to another message, the content of that replied message is also included for context.
-    - [DeepSeek Privacy Policy](https://www.deepseek.com/privacy)
+    - [DeepSeek Privacy Policy](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html?locale=en_US)
 - **BlablaLink**: Used for BlablaLink-related commands. Discord User IDs and BlablaLink IDs may be transmitted.
     - [BlablaLink Privacy Policy](https://nikke-en.com/privacypolicy/)
 - **DotGG**: Used for game information lookups.
