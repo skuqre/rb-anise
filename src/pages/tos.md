@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/md.astro
-title: Rebuild Anisé: Terms of Service
+title: Rebuild Anisé - Terms of Service
 ---
 
 <br><br>
