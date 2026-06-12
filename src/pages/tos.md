@@ -64,7 +64,7 @@ Further information on how this information is used, stored, and processed is li
 
 The Bot is provided "as is" without any warranties. I am not liable for:
 
-- Any disruptions, bugs, or downtime thatout of my control.
+- Any disruptions, bugs, or downtime out of my control.
 - Any unintended consequences resulting from the use of the Bot.
 - Any loss or damage arising from reliance on the Bot's functionalities.
 
