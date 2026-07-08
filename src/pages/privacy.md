@@ -87,7 +87,7 @@ The Bot uses third-party APIs to provide certain features. Only the minimum data
 - **Prydwen Institute**: Used for game information lookups.
     - [Prydwen Institute Privacy Policy](https://www.prydwen.gg/privacy-policy/)
 
-An outline of the data source URLs the Bot uses for game information lookups can be seen by using the `/api-info` command. This does not cover all third-party services listed above.
+An outline of the data source URLs the Bot uses for game information lookups can be seen by using the `/credits` command. This does not cover all third-party services listed above.
 
 ## VI. Your Rights
 
