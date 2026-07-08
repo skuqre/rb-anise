@@ -7,7 +7,7 @@ title: Rebuild Anisé - Privacy Policy
 
 # Privacy Policy
 
-*Last updated: June 12, 2026*
+*Last updated: July 9, 2026*
 
 ## I. Introduction
 
